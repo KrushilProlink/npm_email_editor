@@ -1,7 +1,7 @@
 {
-  "name": "react-email-editor",
+  "name": "email-editor",
   "version": "1.1.1",
-  "description": "Unlayer's Email Editor Component for React.js",
+  "description": "Email Editor Component for React.js",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
@@ -46,9 +46,9 @@
     "typescript": "^4.9.4"
   },
   "author": "",
-  "homepage": "https://github.com/unlayer/react-email-editor#readme",
+  "homepage": "https://github.com/KrushilProlink/npm_email_editor.git#readme",
   "license": "MIT",
-  "repository": "https://github.com/unlayer/react-email-editor.git",
+  "repository": "https://github.com/KrushilProlink/npm_email_editor.git",
   "keywords": [
     "react-component"
   ]
