@@ -29,9 +29,6 @@
       "pre-commit": "tsdx lint"
     }
   },
-  "dependencies": {
-    "unlayer-types": "latest"
-  },
   "devDependencies": {
     "@rollup/plugin-replace": "^5.0.2",
     "@testing-library/react": "^13.4.0",
